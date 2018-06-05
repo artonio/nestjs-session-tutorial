@@ -2,7 +2,7 @@
 
 ## Description
 
-using-basic-auth-to-authenticate-and-use-express-session-to-manage-sessions-with-http-cookie
+using basic auth to authenticate and use express-session to manage sessions with http cookie
 
 ## Installation
 
